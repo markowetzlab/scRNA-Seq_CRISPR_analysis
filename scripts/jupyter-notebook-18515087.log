@@ -1,0 +1,42 @@
+[I 2022-06-08 15:37:51.767 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-06-08 15:37:51.781 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-06-08 15:37:54.807 ServerApp] notebook_shim | extension was successfully linked.
+[I 2022-06-08 15:37:54.971 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2022-06-08 15:37:54.972 LabApp] JupyterLab extension loaded from /Users/baker02/miniconda3/envs/edwards/lib/python3.10/site-packages/jupyterlab
+[I 2022-06-08 15:37:54.972 LabApp] JupyterLab application directory is /home/baker02/miniconda3/envs/edwards/share/jupyter/lab
+[I 2022-06-08 15:37:54.976 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-06-08 15:37:55.026 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-06-08 15:37:55.026 ServerApp] Serving notebooks from local directory: /mnt/scratchb/fmlab/baker02/Edwards
+[I 2022-06-08 15:37:55.027 ServerApp] Jupyter Server 1.17.0 is running at:
+[I 2022-06-08 15:37:55.027 ServerApp] http://clust1-node-20:8380/lab
+[I 2022-06-08 15:37:55.027 ServerApp]  or http://127.0.0.1:8380/lab
+[I 2022-06-08 15:37:55.027 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2022-06-08 15:37:57.364 ServerApp] 302 GET / (10.20.236.34) 0.54ms
+[I 2022-06-08 15:37:57.404 LabApp] 302 GET /lab? (10.20.236.34) 1.65ms
+[I 2022-06-08 15:38:12.489 ServerApp] 302 POST /login?next=%2Flab%3F (10.20.236.34) 2.14ms
+[W 2022-06-08 15:38:19.672 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-08 15:41:49.751 ServerApp] 404 GET /api/contents/athena/sampling.py?content=0&1654699309604 (10.20.236.34): No such file or directory: athena/sampling.py
+[W 2022-06-08 15:41:49.751 ServerApp] No such file or directory: athena/sampling.py
+[W 2022-06-08 15:41:49.751 ServerApp] 404 GET /api/contents/athena/sampling.py?content=0&1654699309604 (10.20.236.34) 6.05ms referer=http://localhost:8380/lab?
+[W 2022-06-08 15:41:51.157 ServerApp] 404 GET /api/contents/athena?1654699311053 (10.20.236.34): No such file or directory: athena
+[W 2022-06-08 15:41:51.158 ServerApp] No such file or directory: athena
+[W 2022-06-08 15:41:51.158 ServerApp] 404 GET /api/contents/athena?1654699311053 (10.20.236.34) 1.66ms referer=http://localhost:8380/lab?
+[I 2022-06-08 15:42:48.767 ServerApp] Kernel started: f6141041-b85a-4dc1-9234-14fc65c09e61
+[I 2022-06-08 15:43:08.604 ServerApp] Saving file at /notebooks/001_gRNA_Assignment.ipynb
+[I 2022-06-08 15:43:08.779 ServerApp] Creating new directory in /data
+[I 2022-06-08 15:43:17.730 ServerApp] Saving file at /notebooks/001_gRNA_Assignment.ipynb
+[I 2022-06-08 15:45:22.604 ServerApp] Saving file at /notebooks/001_gRNA_Assignment.ipynb
+[I 2022-06-08 16:00:03.308 ServerApp] Saving file at /notebooks/001_gRNA_Assignment.ipynb
+[I 2022-06-08 16:01:03.045 ServerApp] Saving file at /notebooks/001_gRNA_Assignment.ipynb
+[I 2022-06-08 16:01:15.209 ServerApp] Saving file at /notebooks/001_gRNA_Assignment.ipynb
+[I 2022-06-08 16:01:46.567 ServerApp] Saving file at /notebooks/001_gRNA_Assignment.ipynb
+[I 2022-06-08 16:02:23.977 ServerApp] Saving file at /notebooks/001_gRNA_Assignment.ipynb
+[I 2022-06-08 16:02:25.263 ServerApp] Saving file at /notebooks/001_gRNA_Assignment.ipynb
+[I 2022-06-08 16:02:27.923 ServerApp] Creating new file in 
+[W 2022-06-08 16:02:36.094 ServerApp] 409 PATCH /api/contents/untitled.txt?1654700555980 (10.20.236.34): File already exists: .gitignore
+[W 2022-06-08 16:02:36.094 ServerApp] File already exists: .gitignore
+[W 2022-06-08 16:02:36.094 ServerApp] 409 PATCH /api/contents/untitled.txt?1654700555980 (10.20.236.34) 2.01ms referer=http://localhost:8380/lab/tree/notebooks/001_gRNA_Assignment.ipynb
+[W 2022-06-08 16:02:42.428 ServerApp] delete /untitled.txt
+[W 2022-06-08 16:02:42.428 ServerApp] Skipping trash for /mnt/scratchb/fmlab/baker02/Edwards/untitled.txt, on different device to home directory
+[I 2022-06-08 16:06:44.732 ServerApp] Creating new file in 
+[I 2022-06-08 16:07:08.055 ServerApp] Saving file at /Readme.md
